@@ -72,16 +72,16 @@ OO대학교 컴퓨터인공지능학부 리눅스프로그래밍 프로젝트
 
 ## 📂 파일 구조
 
-locker-management/
-├── server.c
-├── client.c
-├── Makefile
-├── README.md
-└── screenshots/
-├── client_start.png
-├── lockout_30sec.png
-├── item_input.png
-├── item_move.png
+locker-management/<br>
+├── server.c<br>
+├── client.c<br>
+├── Makefile<br>
+├── README.md<br>
+└── screenshots/<br>
+├── client_start.png<br>
+├── lockout_30sec.png<br>
+├── item_input.png<br>
+├── item_move.png<br>
 
 ---
 
